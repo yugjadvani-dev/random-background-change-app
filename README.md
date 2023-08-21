@@ -1,3 +1,8 @@
+![Screenshot 2023-08-15 091345](https://github.com/yug20/random-background-change-app/assets/110123287/2cdf89a0-ab51-4bf8-8c26-863f9b5a8963)
+
+![Screenshot 2023-08-15 091339](https://github.com/yug20/random-background-change-app/assets/110123287/b2839fc3-9553-4433-8bea-445fa400e174)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
